@@ -76,95 +76,103 @@
 
 | | |
 |---|---|
-| 🎤 | **Deep learning model** detects emotions (happy, sad, calm, angry…) from voice pitch |
+| 🎤 | Deep learning model detects emotions (happy, sad, calm, angry) from voice pitch |
 | 🤖 | Chatbot interface analyzes mood via sentiment-based questions |
-| 🎶 | Generates **real-time mood-based playlists** from a local song database |
-| 🔗 | Replaces trend-based recommendations with **emotion-driven personalization** |
+| 🎶 | Generates real-time mood-based playlists from a local song database |
+| 🔗 | Replaces trend-based recommendations with emotion-driven personalization |
 
 <br/>
 
-**📸 Project Screenshots:**
+### 📸 Project Screenshots
 
 ---
 
-**1️⃣ User Interface**
+### <a href="https://www.linkedin.com/in/sanjaypeddaboina/details/projects/613311826/multiple-media-viewer/?profileId=ACoAAEOJI5gBCGlG-tfZ7D3poreDAhTnrTm-XXs&treasuryMediaId=1744370034782" target="_blank">1️⃣ User Interface</a>
 
-<img src="./assets/Interface.png" width="80%" alt="Chatbot Song Recommendation System - User Interface"/>
-
-> The main interface of the Chatbot Song Recommendation System with options to record voice, predict emotion & play songs.
-
----
-
-**2️⃣ Emotion Detection & Playlist Generation**
-
-<img src="./assets/Detecting_emotion_and_Playlist_Generation.png" width="80%" alt="Emotion Detected as HAPPY - Playlist Generated"/>
-
-> Emotion predicted as **HAPPY** from voice pitch. A list of recommended happy songs appears in the dropdown — user can select and play directly.
+> This screen shows the **main interface of the AI Chatbot Song Recommendation System** where users interact with the application.  
+> Users can record their voice input, analyze emotional tone, and receive music recommendations instantly.  
+> The interface provides controls for emotion detection, song selection, and playback from the generated playlist.
 
 ---
 
-**3️⃣ Manual Emotion Input**
+### <a href="https://www.linkedin.com/in/sanjaypeddaboina/details/projects/613311826/multiple-media-viewer/?profileId=ACoAAEOJI5gBCGlG-tfZ7D3poreDAhTnrTm-XXs&treasuryMediaId=1744370034783" target="_blank">2️⃣ Emotion Detection & Playlist Generation</a>
 
-<img src="./assets/Mannual_Emotion.png" width="80%" alt="Manual Emotion Input - Sad Songs Playlist"/>
-
-> User manually requests sad songs via chatbot dialog — system instantly generates and displays a **sad songs playlist** as recommendation.
+> The system analyzes **voice pitch and audio features** to identify the user's emotional state.  
+> Based on the detected emotion (such as Happy, Sad, Calm, or Angry), the model filters songs that match the mood.  
+> A personalized playlist is then generated automatically from the local song database.
 
 ---
 
-### ⛓️ Digitized & Decentralized Blockchain App
+### <a href="https://www.linkedin.com/in/sanjaypeddaboina/details/projects/613311826/multiple-media-viewer/?profileId=ACoAAEOJI5gBCGlG-tfZ7D3poreDAhTnrTm-XXs&treasuryMediaId=1744370034784" target="_blank">3️⃣ Manual Emotion Input</a>
+
+> Users can also manually interact with the chatbot to request songs for a specific mood.  
+> The chatbot processes the request and retrieves songs matching the selected emotional category.  
+> This feature ensures users can receive **instant mood-based recommendations even without voice analysis**.
+
+---
+
+## ⛓️ Digitized & Decentralized Blockchain App
 > A modular blockchain system simulating secure, tamper-proof peer-to-peer transactions.  
 > 🛠️ **Skills:** Python · Blockchain · Cryptographic Hashing · Proof-of-Work
 
 | | |
 |---|---|
-| 🔐 | **Cryptographic hashing** links blocks & ensures data integrity |
+| 🔐 | Cryptographic hashing links blocks and ensures data integrity |
 | 📦 | Modular design — `Peer` · `Block` · `Transaction` · `Chain` |
-| ✅ | Validation checks prevent invalid/duplicate transactions |
-| 🌐 | Explores **decentralization**, **immutability** & **proof-of-work** |
+| ✅ | Validation checks prevent invalid or duplicate transactions |
+| 🌐 | Demonstrates decentralization and proof-of-work |
 
 <br/>
 
-**📸 Project Screenshots:**
+### 📸 Project Screenshots
 
 ---
 
-**1️⃣ Add Peer Interface**
+### <a href="https://www.linkedin.com/in/sanjaypeddaboina/details/projects/616114017/multiple-media-viewer/?profileId=ACoAAEOJI5gBCGlG-tfZ7D3poreDAhTnrTm-XXs&treasuryMediaId=1744372837258" target="_blank">1️⃣ Add Peer Interface</a>
 
-<img src="./assets/Interface_and_Mail.png" width="80%" alt="Add Peer Screen"/>
-
-> New peer `raju@gmail.com` added — entry remains visible until added to a block, then gets removed from the peer screen automatically.
-
----
-
-**2️⃣ Add Peers to Block**
-
-<img src="./assets/Add_Peers_to_Block.png" width="80%" alt="Add Peers to Block Screen"/>
-
-> Newly added peer details displayed in the **Added Peer Details** table after being assigned to a block on the chain.
+> This interface allows users to **register new peers in the blockchain network** by providing basic identity details.  
+> Each peer represents a participant capable of sending or receiving transactions within the system.  
+> Once added, the peer becomes part of the decentralized network and can participate in blockchain transactions.
 
 ---
 
-**3️⃣ Peers Display with Hash Validation**
+### <a href="https://www.linkedin.com/in/sanjaypeddaboina/details/projects/616114017/multiple-media-viewer/?profileId=ACoAAEOJI5gBCGlG-tfZ7D3poreDAhTnrTm-XXs&treasuryMediaId=1744372837259" target="_blank">2️⃣ Add Peers to Block</a>
 
-<img src="./assets/Peers_Display.png" width="80%" alt="Peers Display with Hash Codes"/>
-
-> All peers added to the blockchain shown with **old and new hash codes** as proof-of-work. New hash of each row matches the previous hash of the next — validating the chain integrity.
-
----
-
-**4️⃣ Submit Transaction**
-
-<img src="./assets/Submit_Transaction.png" width="80%" alt="Submit Transaction Screen"/>
-
-> Choose **From Peer** & **To Peer** from dropdown, enter the coin amount and click **Submit Transaction** to securely transfer funds between peers.
+> This screen assigns newly created peers to a **block within the blockchain structure**.  
+> The system groups peer data into blocks that store transaction-related information.  
+> Each block becomes part of the chain, forming the **foundation for secure and traceable transactions**.
 
 ---
 
-**5️⃣ Retrieve All Transactions**
+### <a href="https://www.linkedin.com/in/sanjaypeddaboina/details/projects/616114017/multiple-media-viewer/?profileId=ACoAAEOJI5gBCGlG-tfZ7D3poreDAhTnrTm-XXs&treasuryMediaId=1744372837260" target="_blank">3️⃣ Peers Display with Hash Validation</a>
 
-<img src="./assets/Retrieve_all_Transaction.png" width="80%" alt="View All Transactions"/>
+> This view displays all peers stored in the blockchain along with their **old and newly generated hash values**.  
+> Each block contains the hash of the previous block, forming a secure cryptographic link.  
+> This mechanism ensures **data integrity and tamper detection across the blockchain network**. :contentReference[oaicite:0]{index=0}
 
-> Displays the **successful transaction chain** — all recorded and blockchain-validated transactions between peers with full details.
+---
+
+### <a href="https://www.linkedin.com/in/sanjaypeddaboina/details/projects/616114017/multiple-media-viewer/?profileId=ACoAAEOJI5gBCGlG-tfZ7D3poreDAhTnrTm-XXs&treasuryMediaId=1744372837261" target="_blank">4️⃣ Submit Transaction</a>
+
+> This interface enables users to **transfer coins between two peers in the blockchain network**.  
+> The sender and receiver are selected from registered peers, and the transaction amount is specified.  
+> Once submitted, the transaction is validated and added to the blockchain as a **secure immutable record**.
+
+---
+
+### <a href="https://www.linkedin.com/in/sanjaypeddaboina/details/projects/616114017/multiple-media-viewer/?profileId=ACoAAEOJI5gBCGlG-tfZ7D3poreDAhTnrTm-XXs&treasuryMediaId=1744372837262" target="_blank">5️⃣ View Chain</a>
+
+> This screen displays the **blockchain ledger containing all validated transactions** recorded in the chain.  
+> Each block includes its own hash and the hash of the previous block, creating a secure linked structure.  
+> This chaining mechanism ensures **immutability and prevents unauthorized data modification**. :contentReference[oaicite:1]{index=1}
+
+---
+
+### <a href="https://www.linkedin.com/in/sanjaypeddaboina/details/projects/616114017/multiple-media-viewer/?profileId=ACoAAEOJI5gBCGlG-tfZ7D3poreDAhTnrTm-XXs&treasuryMediaId=1744372837263" target="_blank">6️⃣ Retrieve All Transactions</a>
+
+> This section retrieves and displays the **complete transaction history stored in the blockchain**.  
+> It lists all peer-to-peer transfers including sender, receiver, and transferred coin amounts.  
+> The displayed transactions are already validated and permanently stored in the chain, ensuring **transparent and traceable records**.
 
 ---
 
