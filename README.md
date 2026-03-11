@@ -15,26 +15,22 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaypeddaboina/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjupeddaboina)
-[![LeetCode](https://img.shields.io/badge/LeetCode-160%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanjupeddaboina/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-160%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sanjay_113/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjupeddaboina13@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-9154744284-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919154744284)
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
-👨‍💻 About Me
-
-- 🎓 B.Tech CSE 2025 Graduate · MRIET · GPA 8.18
+- 🎓 B.Tech CSE '25 · MRIET · GPA 8.18
 - ☕ Aspiring Software Development Engineer
 - 🧠 160+ LeetCode problems solved
+- ⛓️ Built a Blockchain App & 🎵 AI Emotion Chatbot
 - 🎯 Organised AWS Hackathon for 140+ participants
 - 🏆 TCS CodeVita 2024 competitor
 - 🚀 Open to SDE roles & internships
-
----
 
 ## 🛠️ Tech Stack
 
@@ -74,8 +70,50 @@
 
 ## 🚀 Featured Projects
 
+### 🎵 AI Chatbot – Song Recommendation System
+> Emotion-aware chatbot that detects your mood from voice/text and curates the perfect playlist.  
+> 🛠️ **Skills:** Python · Tkinter · Deep Learning · Local DB
+
+| | |
+|---|---|
+| 🎤 | **Deep learning model** detects emotions (happy, sad, calm, angry…) from voice pitch |
+| 🤖 | Chatbot interface analyzes mood via sentiment-based questions |
+| 🎶 | Generates **real-time mood-based playlists** from a local song database |
+| 🔗 | Replaces trend-based recommendations with **emotion-driven personalization** |
+
+<br/>
+
+**📸 Project Screenshots:**
+
+---
+
+**1️⃣ User Interface**
+
+<img src="./assets/Interface.png" width="80%" alt="Chatbot Song Recommendation System - User Interface"/>
+
+> The main interface of the Chatbot Song Recommendation System with options to record voice, predict emotion & play songs.
+
+---
+
+**2️⃣ Emotion Detection & Playlist Generation**
+
+<img src="./assets/Detecting_emotion_and_Playlist_Generation.png" width="80%" alt="Emotion Detected as HAPPY - Playlist Generated"/>
+
+> Emotion predicted as **HAPPY** from voice pitch. A list of recommended happy songs appears in the dropdown — user can select and play directly.
+
+---
+
+**3️⃣ Manual Emotion Input**
+
+<img src="./assets/Mannual_Emotion.png" width="80%" alt="Manual Emotion Input - Sad Songs Playlist"/>
+
+> User manually requests sad songs via chatbot dialog — system instantly generates and displays a **sad songs playlist** as recommendation.
+
+---
+
 ### ⛓️ Digitized & Decentralized Blockchain App
-> A modular blockchain system simulating secure, tamper-proof peer-to-peer transactions.
+> A modular blockchain system simulating secure, tamper-proof peer-to-peer transactions.  
+> 🛠️ **Skills:** Python · Blockchain · Cryptographic Hashing · Proof-of-Work
 
 | | |
 |---|---|
@@ -84,26 +122,61 @@
 | ✅ | Validation checks prevent invalid/duplicate transactions |
 | 🌐 | Explores **decentralization**, **immutability** & **proof-of-work** |
 
+<br/>
+
+**📸 Project Screenshots:**
+
 ---
 
-### 🎵 AI Chatbot – Song Recommendation System
-> Emotion-aware chatbot that detects your mood from voice/text and curates the perfect playlist.
+**1️⃣ Add Peer Interface**
 
-| | |
-|---|---|
-| 🎤 | **Deep learning model** detects emotions (happy, sad, calm, angry…) from voice pitch |
-| 🤖 | Interactive chatbot collects voice + text input for real-time sentiment analysis |
-| 🎶 | Recommends songs & generates **mood-based playlists** on demand |
-| 🔗 | Integrated **streaming APIs** to auto-curate personalized playlists |
+<img src="./assets/Interface_and_Mail.png" width="80%" alt="Add Peer Screen"/>
+
+> New peer `raju@gmail.com` added — entry remains visible until added to a block, then gets removed from the peer screen automatically.
+
+---
+
+**2️⃣ Add Peers to Block**
+
+<img src="./assets/Add_Peers_to_Block.png" width="80%" alt="Add Peers to Block Screen"/>
+
+> Newly added peer details displayed in the **Added Peer Details** table after being assigned to a block on the chain.
+
+---
+
+**3️⃣ Peers Display with Hash Validation**
+
+<img src="./assets/Peers_Display.png" width="80%" alt="Peers Display with Hash Codes"/>
+
+> All peers added to the blockchain shown with **old and new hash codes** as proof-of-work. New hash of each row matches the previous hash of the next — validating the chain integrity.
+
+---
+
+**4️⃣ Submit Transaction**
+
+<img src="./assets/Submit_Transaction.png" width="80%" alt="Submit Transaction Screen"/>
+
+> Choose **From Peer** & **To Peer** from dropdown, enter the coin amount and click **Submit Transaction** to securely transfer funds between peers.
+
+---
+
+**5️⃣ Retrieve All Transactions**
+
+<img src="./assets/Retrieve_all_Transaction.png" width="80%" alt="View All Transactions"/>
+
+> Displays the **successful transaction chain** — all recorded and blockchain-validated transactions between peers with full details.
+
+---
 
 
+---
 
 ## 🏆 Achievements & Leadership
 
 | 🏅 | Achievement | 📋 Details |
 |---|---|---|
 | 🧩 | **TCS CodeVita 2024** | Competed in India's largest coding contest |
-| 💡 | **LeetCode** | Solved **120+ DSA problems** 🔥 |
+| 💡 | **LeetCode** | Solved **160+ DSA problems** 🔥 |
 | 🎯 | **AWS Hackathon 2024** | Organised & managed event for **140+ participants** |
 
 ---
@@ -138,7 +211,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaypeddaboina/)
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjupeddaboina13@gmail.com)
-[![LeetCode](https://img.shields.io/badge/View%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanjupeddaboina/)
+[![LeetCode](https://img.shields.io/badge/View%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sanjay_113/)
 
 </div>
 
