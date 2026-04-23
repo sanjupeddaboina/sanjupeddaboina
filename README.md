@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sanjay+Kumar%F0%9F%91%8B;Fresh+CS+Graduate+%7C+Aspiring+SDE+Roles;AI+Enthusiast;160%2B+LeetCode+Problems+%F0%9F%94%A5;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sanjay+Kumar%F0%9F%91%8B;Fresh+CS+Graduate+%7C+Aspiring+SDE+Roles;AI+Enthusiast;200%2B+LeetCode+Problems+%F0%9F%94%A5;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,14 +24,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE '25 · MRIET · GPA 8.18
-- ☕ Aspiring Software Development Engineer
-- 🧠 160+ LeetCode problems solved
-- ⛓️ Built a Blockchain App & 🎵 AI Emotion Chatbot
-- 🎯 Organised AWS Hackathon for 140+ participants
-- 🏆 TCS CodeVita 2024 competitor
-- 🚀 Open to SDE roles & internships
-
+- 🎓 B.Tech CSE '25 · MRIET · GPA: 8.18  
+- 💻 Strong in Data Structures, Algorithms, and OOP  
+- 🧠 Solved 200+ problems on LeetCode  
+- 🔗 Built projects in Blockchain and AI-based emotion-driven music recommendation system
+- 🛠️ Interested in building real-world backend and scalable applications  
+- 🎯 Organized AWS Hackathon (140+ participants)  
+- 🏆 TCS CodeVita 2024 Participant
 ## 🛠️ Tech Stack
 
 <div align="center">
