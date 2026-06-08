@@ -91,6 +91,38 @@
 
 ---
 
+## 🚀 Projects
+
+### 📚 Library Management System
+
+**Tech Stack:** Spring Boot, Spring Data JPA, Hibernate, MySQL, Maven
+
+• Developed a Library Management System to simplify the management of students, books, authors, library cards, and transaction records through a set of RESTful APIs.
+
+• Implemented core functionalities such as book issuance, book return, student registration, and library card management while applying basic business validation rules.
+
+• Designed database entities and relationships using Spring Data JPA and Hibernate to efficiently store, retrieve, and manage library information in MySQL.
+
+• Built and tested REST APIs using Postman to perform CRUD operations and ensure smooth interaction between the application and database.
+
+🔗 Repository: https://github.com/sanjupeddaboina/Library-Management-System
+
+### ⛓️ Decentralized Blockchain Application
+
+**Tech Stack:** Python, Django, Blockchain Fundamentals, SHA-256 Hashing, SQLite
+
+• Developed a blockchain-based web application to gain practical understanding of blockchain concepts such as transactions, blocks, decentralized networks, and immutable ledgers.
+
+• Implemented modules for peer management, transaction creation, block generation, and blockchain visualization using Python, Django, and object-oriented programming principles.
+
+• Applied SHA-256 hashing concepts to establish links between blocks and maintain the integrity and consistency of blockchain data.
+
+• Built transaction validation and block creation workflows to process transactions, generate blocks, and visualize the complete blockchain ledger through a web interface.
+
+🔗 Repository: https://github.com/sanjupeddaboina/Decentralized-Blockchain-Application
+
+
+
 ## 🏆 Achievements & Leadership
 
 | 🏅 | Achievement | 📋 Details |
