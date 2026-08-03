@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sanjay+Kumar%F0%9F%91%8B;Fresh+CS+Graduate+%7C+Aspiring+SDE+Roles;AI+Enthusiast;230%2B+LeetCode+Problems+%F0%9F%94%A5;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sanjay+Kumar%F0%9F%91%8B;Fresh+CS+Graduate+%7C+Aspiring+SDE+Roles;AI+Enthusiast;280%2B+LeetCode+Problems+%F0%9F%94%A5;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,9 +15,8 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaypeddaboina/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjupeddaboina)
-[![LeetCode](https://img.shields.io/badge/LeetCode-230%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sanjay_113/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-280%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sanjay_113/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjupeddaboina13@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-9154744284-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919154744284)
 
 </div>
 
@@ -25,12 +24,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE '25 · MRIET · GPA: 8.18  
-- 💻 Strong in Data Structures, Algorithms, and OOP  
-- 🧠 Solved 230+ problems on LeetCode  
+- 💻 Strong in Data Structures, Algorithms, OOP and Backend
+- 🧠 Solved 280+ problems on LeetCode  
 - 🔗 Built Decentralized Blockchain Application and Library Management System
 - 🛠️ Interested in building real-world backend and scalable applications  
 - 🎯 Organized AWS Hackathon (140+ participants)  
-- 🏆 TCS CodeVita 2024 Participant
+- 🏆 LeetCode & Competitive coding participator
 
 ---
 
@@ -53,12 +52,14 @@
 
 ### ⚙️ Backend & APIs
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+
 
 ### 🗄️ Databases
 
@@ -76,6 +77,8 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipseide\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
@@ -93,9 +96,27 @@
 
 ## 🚀 Projects
 
+### 🚖 Ride Booking System
+
+**Tech Stack:** _Spring Boot, Spring Data JPA, Hibernate, MySQL, Maven_
+
+• Developed a backend Ride Booking System using Spring Boot, following Layered Architecture and RESTful API design principles.
+
+• Implemented core functionalities including user and driver registration, ride booking, automatic driver assignment, ride lifecycle management, and ride history.
+
+• Developed business logic for distance-based fare calculation, payment processing, driver earnings tracking, and ride status transitions with proper validation.
+
+• Designed and managed relational database entities and relationships using Spring Data JPA and Hibernate for efficient data persistence in MySQL.
+
+• Applied industry-standard practices such as the DTO pattern, Bean Validation, centralized exception handling, and clean layered architecture to improve maintainability and reliability.
+
+• Built and tested 30+ REST APIs using Postman, ensuring robust CRUD operations, proper HTTP responses, and seamless interaction between the application and the database.
+
+🔗 Check out here : https://github.com/sanjupeddaboina/Ride-Booking-System
+
 ### 📚 Library Management System
 
-**Tech Stack:** Spring Boot, Spring Data JPA, Hibernate, MySQL, Maven
+**Tech Stack:** _Spring Boot, Spring Data JPA, Hibernate, MySQL, Maven_
 
 • Developed a Library Management System to simplify the management of students, books, authors, library cards, and transaction records through a set of RESTful APIs.
 
@@ -105,11 +126,11 @@
 
 • Built and tested REST APIs using Postman to perform CRUD operations and ensure smooth interaction between the application and database.
 
-🔗 Repository: https://github.com/sanjupeddaboina/Library-Management-System
+🔗 Check out here: https://github.com/sanjupeddaboina/Library-Management-System
 
 ### ⛓️ Decentralized Blockchain Application
 
-**Tech Stack:** Python, Django, Blockchain Fundamentals, SHA-256 Hashing, SQLite
+**Tech Stack:** _Python, Django, Blockchain Fundamentals, SHA-256 Hashing, SQLite_
 
 • Developed a blockchain-based web application to gain practical understanding of blockchain concepts such as transactions, blocks, decentralized networks, and immutable ledgers.
 
@@ -119,7 +140,7 @@
 
 • Built transaction validation and block creation workflows to process transactions, generate blocks, and visualize the complete blockchain ledger through a web interface.
 
-🔗 Repository: https://github.com/sanjupeddaboina/Decentralized-Blockchain-Application
+🔗 Check out here: https://github.com/sanjupeddaboina/Decentralized-Blockchain-Application
 
 
 
