@@ -148,7 +148,7 @@
 
 ### 📬 Let's Connect
 
-🌟 Open to **SDE roles, internships & collaborations** — let's build something great!
+🌟 Open to **SDE, Full-Stack & collaborations** — let's build something great!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaypeddaboina/)
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjupeddaboina13@gmail.com)
