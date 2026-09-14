@@ -34,6 +34,7 @@
 |---|---|---|---|
 | Malla Reddy Institute of Engineering & Technology | B.Tech – Computer Science | 2021 – 2025 | **CGPA: 8.18** |
 | Balaji Junior College | Intermediate (MPC) | 2019 – 2021 | **89.8%** |
+| Zilla Parishath High School | Secondary Education(10th) | 2019 | **GPA: 9.2** |
 
 ---
 
