@@ -85,14 +85,29 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjupeddaboina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjupeddaboina&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <img src="./assets/overview.light.svg" width="100%" alt="GitHub Overview">
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjupeddaboina&layout=compact&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.light.svg" width="100%" alt="GitHub Contributions">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg">
+  <img src="./assets/repositories.light.svg" width="100%" alt="Repository Analytics">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+  <img src="./assets/languages.light.svg" width="100%" alt="Language Analytics">
+</picture>
 
 </div>
 
